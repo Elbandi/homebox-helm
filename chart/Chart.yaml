@@ -1,7 +1,7 @@
 apiVersion: v2
 name: homebox
 description: A Helm chart for HomeBox, the inventory and organization system built for the Home User.
-icon: https://avatars.githubusercontent.com/u/151488376
+icon: https://raw.githubusercontent.com/sysadminsmedia/homebox/refs/heads/main/docs/public/lilbox.svg
 annotations:
   artifacthub.io/alternativeName: homebox-helm
   artifacthub.io/license: Apache-2.0

@@ -5,7 +5,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/bythehugo/homebox-helm)](https://github.com/ByTheHugo/homebox-helm/commits/master/)
 [![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/bythehugo/homebox-helm)](https://github.com/ByTheHugo/homebox-helm/commits/master/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-homebox--helm-lightgrey)](https://github.com/ByTheHugo/homebox-helm)
-[![ArtifactHub Package](https://img.shields.io/badge/ArtifactHub.io-homebox--helm-lightblue)](https://artifacthub.io/packages/helm/homebox/homebox)
+[![ArtifactHub Package](https://img.shields.io/badge/ArtifactHub.io-homebox--helm-lightblue)](https://artifacthub.io/packages/helm/homebox-helm/homebox)
 
 ![HomeBox Helm banner](docs/homebox-helm-banner.png)
 
